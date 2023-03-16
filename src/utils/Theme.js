@@ -12,3 +12,16 @@ export const lightTheme = {
   textSoft:"#606060",
   soft:"#f5f5f5"
 }
+
+{/* <Hr />
+      
+      <Login>
+        Sign in to like videos, comment, and subscribe.
+        <Link to="signin" style={{ textDecoration: "none" }}>
+          <Button>
+            <AccountCircleOutlinedIcon />
+            SIGN IN
+          </Button>
+        </Link>
+      </Login>
+      <Hr /> */}

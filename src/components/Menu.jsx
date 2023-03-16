@@ -89,7 +89,7 @@ const Menu = ({ darkMode, setDarkMode }) => {
         <Link to="/" style={{ textDecoration: "none", color: "inherit" }}>
           <Logo>
             <Img src={LamaTube} />
-            Aqous video
+           Aqous Video
           </Logo>
         </Link>
         <Item>
